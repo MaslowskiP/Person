@@ -1,0 +1,12 @@
+{
+  	"name": "pmas/projekt",
+  	"autoload": {
+      		"psr-0": { "": "src/" }
+ 	 },
+  	"require": {
+      		"php": ">=5.3.3",
+  	  	"symfony/serializer": "^3.0"
+
+		
+  	}
+}
